@@ -11,3 +11,16 @@ y <- rnorm(n, b[1] + b[2]*x, sigma)
 
 plot(x, y)
 abline(a=b[1], b=b[2])
+
+
+# Alternatively
+library(tidyverse); theme_set(theme_bw())
+n <- 1e3
+b <- c(-2, 1.5, -3)
+sigma <- .5
+sim.df <- tibble(x1=runif(n, -5, 5),
+                 x2=runif(n, -5, 5),
+                 y_hat=b[1] + b[2]*x1 + b[3]*x2,
+                 y=rnorm(n, y_hat, sigma))
+ggplot(sim.df, aes(x1, x2, colour=y)) + geom_point() + 
+  scale_colour_viridis_c()
