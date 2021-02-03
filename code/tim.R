@@ -22,5 +22,7 @@ sim.df <- tibble(x1=runif(n, -5, 5),
                  x2=runif(n, -5, 5),
                  y_hat=b[1] + b[2]*x1 + b[3]*x2,
                  y=rnorm(n, y_hat, sigma))
-ggplot(sim.df, aes(x1, x2, colour=y)) + geom_point() + 
+ggplot(sim.df, aes(x1, y, colour=x2)) + 
+  geom_point(shape=1) + 
   scale_colour_viridis_c()
+ggsave("figs/scatter.png", width=12, height=10, units="cm")
