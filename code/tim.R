@@ -3,7 +3,7 @@
 # Bertelsmeier git tutorial
 
 # Let's make up some data
-n <- 100
+n <- 200
 b <- c(-2, 1.5)
 sigma <- 1.5
 x <- seq(-5, 5, length.out=n)
