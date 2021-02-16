@@ -24,7 +24,7 @@ To make things run more smoothly during lab meeting, everyone should:
   - If available, check the box for *Use Git Bash as shell for Git projects*
   - Restart RStudio for the changes to take effect.
 - Tell git your info
-  - After restarting RStudio, you should see a tab next to *Environment* and *History* that says *Git*, as well as a dropdown *Git* icon at the top.  
+  - After restarting RStudio and starting a new project (New Project > New Directory > New Project, then check the box that says 'create a git repository’), you should see a tab next to *Environment* and *History* that says *Git*, as well as a dropdown *Git* icon at the top.  
   - Click the *Git* tab  
   - Click the gear icon that says *More*  
   - Click *Shell..*   
