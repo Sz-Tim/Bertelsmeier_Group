@@ -39,14 +39,14 @@ If everyone needs to type in their username and password each time they **Push**
 
 ### 3. Take turns editing the same file
 
-Everyone open `code/group.Rmd`. One person edit it, **commit**, and **Push**. Then everyone **Pull**. Then the next person, etc. Doing this in series avoids merge conflicts.
+One person edit the file `code/group.Rmd`, **commit**, and **Push**. Then everyone **Pull**. Then the next person, etc. Doing this in series avoids merge conflicts. Each time you **Pull**, you'll see the updates that were added.
 
 
 --------
 
 ### 4. Edit at the same time!
 
-Everyone **Pull**, and then edit your assigned line:  
+Everyone **Pull**, and then edit your assigned line, commit and *wait*:  
 - Aymeric: line 8   
 - Cleo: line 10  
 - Gyda: line 12  
@@ -54,7 +54,7 @@ Everyone **Pull**, and then edit your assigned line:
 - Jérôme: line 16  
 - Libby: line 18  
 - Zoé: line 20  
-**Commit**, but *wait* to **Push** until I've commited and pushed. Then deal with the merge conflict.     
+**Commit**, but *wait* to **Push** until I've commited and pushed. Is there a merge conflict? If not, we can repeat the process.      
 
 
 --------
