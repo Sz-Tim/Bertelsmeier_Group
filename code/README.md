@@ -30,6 +30,11 @@ Show off some of your R skills, then save, stage, and **commit** your file.
 **Pull** to sync your repository with the version on GitHub, then **Push** your commit. Be aware that if your local repo is out of date (i.e., if someone has pushed since the last time you pulled), git will *reject* your **Push** and tell you to **Pull** first. 
 
 
+#### 2a. Detour (optional)  
+
+If everyone needs to type in their username and password each time they **Push** or **Pull**, we can create personal access tokens to [cache our credentials](https://happygitwithr.com/credential-caching.html) so you don't need to deal with that.  
+
+
 --------
 
 ### 3. Take turns editing the same file
