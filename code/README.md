@@ -51,8 +51,9 @@ Everyone **Pull**, and then edit your assigned line:
 - Cleo: line 10  
 - Gyda: line 12  
 - Jelena: line 14  
-- Jerome: line 16  
+- Jérôme: line 16  
 - Libby: line 18  
+- Zoé: line 20  
 **Commit**, but *wait* to **Push** until I've commited and pushed. Then deal with the merge conflict.     
 
 
