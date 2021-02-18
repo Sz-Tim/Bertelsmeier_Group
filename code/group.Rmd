@@ -13,7 +13,7 @@ EDIT ME! This is [how you add a URL](https://www.google.com).
 
 EDIT ME! Making tables is sort of annoying, but you can use R code instead.  
 
-EDIT ME! You can use code chunks or inline code to dynamically make tables instead.  
+hey hey hey! 
 
 EDIT ME! That works for figures and statistics too.  
 
