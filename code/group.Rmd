@@ -3,7 +3,7 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-EDIT ME! This is an example R markdown file. You can add R code inline: `r rnorm(1)`.  
+TIM EDITED THIS!
 
 EDIT ME! It uses markdown formatting, so **this is bold**.  
 
