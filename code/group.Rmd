@@ -5,7 +5,7 @@ output: html_notebook
 
 TIM EDITED THIS!
 
-**I edited my line!!!**.  
+**I edited my line!!!**  
 
 EDIT ME! And *this is in italics*.  
 
