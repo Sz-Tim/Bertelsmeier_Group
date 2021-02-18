@@ -5,10 +5,14 @@
 
 We'll use this repository to test out using git through RStudio.
 
+[HappyGitWithR](https://happygitwithr.com/) is a really good resource for using git and GitHub with RStudio. If you run into problems or want to learn more about different things you can do with git, this is a good place to start. For installation instructions, we'll be drawing directly from this book.  
+
+The [EarthLab](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/version-control/) also has good information aimed at non-computer scientists.  
+
+
 ![xkcd](https://www.explainxkcd.com/wiki/images/4/4d/git.png)
 
 
-[HappyGitWithR](https://happygitwithr.com/) is a really good resource for using git and GitHub with RStudio. If you run into problems or want to learn more about different things you can do with git, this is a good place to start. For installation instructions, we'll be drawing directly from this book.  
 
 --------
 
