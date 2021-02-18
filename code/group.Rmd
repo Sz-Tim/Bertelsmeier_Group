@@ -9,7 +9,7 @@ EDIT ME! It uses markdown formatting, so **this is bold**.
 
 EDIT ME! And *this is in italics*.  
 
-EDIT ME! This is [how you add a URL](https://www.google.com).  
+This is [how you add a URL](https://www.google.com).  
 
 EDIT ME! Making tables is sort of annoying, but you can use R code instead.  
 
