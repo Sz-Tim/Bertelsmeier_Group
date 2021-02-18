@@ -5,7 +5,7 @@ output: html_notebook
 
 EDIT ME! This is an example R markdown file. You can add R code inline: `r rnorm(1)`.  
 
-EDIT ME! It uses markdown formatting, so **this is bold**.  
+**I edited my line!!!**.  
 
 EDIT ME! And *this is in italics*.  
 
