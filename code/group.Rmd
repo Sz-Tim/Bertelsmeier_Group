@@ -20,3 +20,4 @@ Changes here!
 EDIT ME! R Notebooks can be nice for EDA or analyses because you can intersperse text, code, and output.  
 
 EDIT ME! The package *knitr* turns the markdown into html, pdf, or other file type as specified in the YAML header.  
+
