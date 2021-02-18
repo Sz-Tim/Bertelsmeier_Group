@@ -3,21 +3,3 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-TIM EDITED THIS!
-
-EDIT ME! It uses markdown formatting, so **this is bold**.  
-
-EDIT ME! And *this is in italics*.  
-
-EDIT ME! This is [how you add a URL](https://www.google.com).  
-
-EDIT ME! Making tables is sort of annoying, but you can use R code instead.  
-
-EDIT ME! You can use code chunks or inline code to dynamically make tables instead.  
-
-EDIT ME! That works for figures and statistics too.  
-
-EDIT ME! R Notebooks can be nice for EDA or analyses because you can intersperse text, code, and output.  
-
-EDIT ME! The package *knitr* turns the markdown into html, pdf, or other file type as specified in the YAML header.  
-
