@@ -15,7 +15,7 @@ EDIT ME! Making tables is sort of annoying, but you can use R code instead.
 
 EDIT ME! You can use code chunks or inline code to dynamically make tables instead.  
 
-EDIT ME! That works for figures and statistics too.  
+EDIT ME! That works for figures and statistics too. i am editing this and my name is libby 
 
 EDIT ME! R Notebooks can be nice for EDA or analyses because you can intersperse text, code, and output.  
 
