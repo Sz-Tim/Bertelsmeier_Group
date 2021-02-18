@@ -15,9 +15,8 @@ EDIT ME! Making tables is sort of annoying, but you can use R code instead.
 
 hey hey hey! 
 
-EDIT ME! That works for figures and statistics too.  
+Changes here!  
 
 EDIT ME! R Notebooks can be nice for EDA or analyses because you can intersperse text, code, and output.  
 
 EDIT ME! The package *knitr* turns the markdown into html, pdf, or other file type as specified in the YAML header.  
-
